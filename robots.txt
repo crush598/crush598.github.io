@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://crush598-github-io.vercel.app/sitemap.xml
+Sitemap: https://crush598.github.io/sitemap.xml
