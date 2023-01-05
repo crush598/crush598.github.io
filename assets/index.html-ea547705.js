@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-78c37309","path":"/posts/04.%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/","title":"04. 深度学习基础","lang":"zh-CN","frontmatter":{"title":"04. 深度学习基础"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":"","copyright":{"author":"Hush"}}');export{t as data};
