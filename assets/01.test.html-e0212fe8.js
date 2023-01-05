@@ -1,0 +1,1 @@
+import{_ as t,V as _,W as s,X as e}from"./framework-3a4fb69a.js";const c={},l=e("ul",null,[e("li",null,"赛博朋克视频测试")],-1),n=[l];function o(r,a){return _(),s("div",null,n)}const u=t(c,[["render",o],["__file","01.test.html.vue"]]);export{u as default};
