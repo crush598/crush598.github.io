@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-3d1829ef","path":"/category/ai/","title":"AI 分类","lang":"zh-CN","frontmatter":{"title":"AI 分类","blog":{"type":"category","name":"AI","key":"category"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":"","copyright":{"author":"Hush"}}');export{e as data};

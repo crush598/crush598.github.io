@@ -1,3 +1,0 @@
-import{_ as e,V as a,W as t,a0 as i}from"./framework-3a4fb69a.js";const r={},l=i(`<h1 id="代办" tabindex="-1"><a class="header-anchor" href="#代办" aria-hidden="true">#</a> 代办</h1><ul><li>[ ] SGD</li><li>[ ] Momentum</li><li>[ ] Adagard</li><li>[ ] Adam</li><li>[ ] PCA</li><li>[ ] 深拷贝和浅拷贝</li><li>[ ] BatchNormalization</li><li>[ ] Dropout</li></ul><h2 id="test" tabindex="-1"><a class="header-anchor" href="#test" aria-hidden="true">#</a> test</h2><p class="katex-block"><span class="katex-error" title="ParseError: KaTeX parse error: Expected group after &#39;^&#39; at position 13: 
-S_i = D + 5^̲
-" style="color:#cc0000;"> S_i = D + 5^ </span></p>`,4),s=[l];function o(c,n){return a(),t("div",null,s)}const h=e(r,[["render",o],["__file","List.html.vue"]]);export{h as default};
