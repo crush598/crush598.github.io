@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-3ab92f08","path":"/Knowledge/note/01.Git%20Pro%202.html","title":"Git Pro","lang":"en-US","frontmatter":{"title":"Git Pro","date":"2022-09-09T14:50:20.000Z"},"excerpt":"","headers":[{"level":2,"title":"","slug":"","children":[]}],"git":{},"readingTime":{"minutes":1,"words":22},"filePathRelative":"Knowledge/note/01.Git Pro 2.md"}');export{e as data};
