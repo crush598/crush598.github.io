@@ -1,1 +1,0 @@
-import{_ as l,o as t,c as o,a as e}from"./app.c9f0d4a4.js";const a={},n=e("ul",null,[e("li",null,"AI learner"),e("li",null,"TJU AI \u672C\u79D1")],-1),_=[n];function c(r,s){return t(),o("div",null,_)}var i=l(a,[["render",c],["__file","about.html.vue"]]);export{i as default};
